@@ -1,0 +1,14 @@
+@import "./vars.scss";
+
+body{
+    font-family: monospace;
+    color: $foreground;
+    display: absolute;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 0 30px;
+    height: 100vh;
+}
+
+
+
