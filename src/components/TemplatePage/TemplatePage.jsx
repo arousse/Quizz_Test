@@ -88,7 +88,7 @@ export default function TemplatePage() {
                       // 16:9
                       pt: '56.25%',
                     }}
-                    image="https://source.unsplash.com/random?plants"
+                    image="https://source.unsplash.com/random?nature"
                   />
                   <CardContent sx={{ flexGrow: 1 }}>
                     <Typography gutterBottom variant="h5" component="h2">
@@ -121,7 +121,7 @@ export default function TemplatePage() {
                       // 16:9
                       pt: '56.25%',
                     }}
-                    image="https://source.unsplash.com/random?plants"
+                    image="https://source.unsplash.com/random?potato"
                   />
                   <CardContent sx={{ flexGrow: 1 }}>
                     <Typography gutterBottom variant="h5" component="h2">
@@ -133,7 +133,7 @@ export default function TemplatePage() {
                   </CardContent>
                   <CardActions>
                     <Button onClick = {() =>{
-                      navigate("/quiz");
+                      navigate("/Kartoffel");
                     }} 
                     size="small">Quiz</Button>
                     <Button
@@ -154,7 +154,7 @@ export default function TemplatePage() {
                       // 16:9
                       pt: '56.25%',
                     }}
-                    image="https://source.unsplash.com/random?plants"
+                    image="https://source.unsplash.com/random?harvest"
                   />
                   <CardContent sx={{ flexGrow: 1 }}>
                     <Typography gutterBottom variant="h5" component="h2">
@@ -166,7 +166,7 @@ export default function TemplatePage() {
                   </CardContent>
                   <CardActions>
                     <Button onClick = {() =>{
-                      navigate("/quiz");
+                      navigate("/ErnteundSaatzeit");
                     }} 
                     size="small">Quiz</Button>
                     <Button
@@ -188,7 +188,7 @@ export default function TemplatePage() {
                       // 16:9
                       pt: '56.25%',
                     }}
-                    image="https://source.unsplash.com/random?plants"
+                    image="https://source.unsplash.com/random?Pflanzenidentifikation"
                   />
                   <CardContent sx={{ flexGrow: 1 }}>
                     <Typography gutterBottom variant="h5" component="h2">
@@ -200,7 +200,7 @@ export default function TemplatePage() {
                   </CardContent>
                   <CardActions>
                     <Button onClick = {() =>{
-                      navigate("/quiz");
+                      navigate("/Pflanzenidentifikation");
                     }} 
                     size="small">Quiz</Button>
                     <Button
@@ -222,7 +222,7 @@ export default function TemplatePage() {
                       // 16:9
                       pt: '56.25%',
                     }}
-                    image="https://source.unsplash.com/random?plants"
+                    image="https://source.unsplash.com/random?seekplant"
                   />
                   <CardContent sx={{ flexGrow: 1 }}>
                     <Typography gutterBottom variant="h5" component="h2">
@@ -234,7 +234,7 @@ export default function TemplatePage() {
                   </CardContent>
                   <CardActions>
                     <Button onClick = {() =>{
-                      navigate("/quiz");
+                      navigate("/KrankheitenundSchädlinge");
                     }} 
                     size="small">Quiz</Button>
                     <Button
@@ -256,7 +256,7 @@ export default function TemplatePage() {
                       // 16:9
                       pt: '56.25%',
                     }}
-                    image="https://source.unsplash.com/random?plants"
+                    image="https://source.unsplash.com/random?medicinalherbs"
                   />
                   <CardContent sx={{ flexGrow: 1 }}>
                     <Typography gutterBottom variant="h5" component="h2">
@@ -268,7 +268,7 @@ export default function TemplatePage() {
                   </CardContent>
                   <CardActions>
                     <Button onClick = {() =>{
-                      navigate("/quiz");
+                      navigate("/NützlingeundHeilkräuter");
                     }} 
                     size="small">Quiz</Button>
                     <Button
@@ -289,7 +289,7 @@ export default function TemplatePage() {
                       // 16:9
                       pt: '56.25%',
                     }}
-                    image="https://source.unsplash.com/random?plants"
+                    image="https://source.unsplash.com/random?GeographischesVorkommen"
                   />
                   <CardContent sx={{ flexGrow: 1 }}>
                     <Typography gutterBottom variant="h5" component="h2">
@@ -301,7 +301,7 @@ export default function TemplatePage() {
                   </CardContent>
                   <CardActions>
                     <Button onClick = {() =>{
-                      navigate("/quiz");
+                      navigate("/GeographischesVorkommen");
                     }} 
                     size="small">Quiz</Button>
                     <Button

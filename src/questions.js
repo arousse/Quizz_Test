@@ -40,7 +40,7 @@ export const jsQuizz = {
                 }
         ],
             
-            category: "AllgemeinwissenZurNatur"
+            category: "KrankheitenundSchädlinge"
         },
         
         {
@@ -53,7 +53,7 @@ export const jsQuizz = {
             ],
             type: "MCQs",
             correctAnswer: "Photosynthesis",
-            category: ''
+            category: 'ErnteundSaatzeit'
         },
     
         {
@@ -66,7 +66,7 @@ export const jsQuizz = {
             ],
             type: "MCQs",
             correctAnswer: "Roots",
-            category: ''
+            category: 'Pflanzenidentifikation'
         },
     
         {
@@ -79,7 +79,7 @@ export const jsQuizz = {
             ],
             type: "MCQs",
             correctAnswer: "Mitochondria",
-            category: ''
+            category: 'Kartoffel'
         },
     
         {
@@ -92,7 +92,7 @@ export const jsQuizz = {
             ],
             type: "MCQs",
             correctAnswer: "Attracting pollinators",
-            category: ''
+            category: 'ErnteundSaatzeit'
             
         },
     
