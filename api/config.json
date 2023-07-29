@@ -1,0 +1,15 @@
+{
+  "api": {
+    "port": 8080
+  },
+  "mongodb": {
+    "host": "127.0.0.1",
+    "port": "27017",
+    "name": "eala"
+  },
+  "session": {
+    "name": "session.sid",
+    "host": "localhost",
+    "lifetime": 3600000
+  }
+}

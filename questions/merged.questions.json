@@ -1,0 +1,2830 @@
+[
+  {
+    "question": "Aus welchen Regionen stammt unter anderm die Kartoffel?",
+    "type": "SCQ",
+    "domain": "schädlingnützling",
+    "right": [
+      "Argentinien",
+      "Venezuela",
+      "Kolumbien",
+      "Ecuador",
+      "Peru",
+      "Bolivien",
+      "Chile"
+    ],
+    "wrong": [
+      "Andorra",
+      "Vereinigte Arabische Emirate",
+      "Afghanistan",
+      "Antigua und Barbuda",
+      "Anguilla",
+      "Albanien",
+      "Armenien",
+      "Niederländische Antillen",
+      "Angola",
+      "Antarktis",
+      "Amerikanisch-Samoa",
+      "Österreich (Austria)",
+      "Australien",
+      "Aruba",
+      "Azerbaijan",
+      "Bosnien-Herzegovina",
+      "Barbados",
+      "Bangladesh",
+      "Belgien",
+      "Burkina Faso",
+      "Bulgarien",
+      "Bahrain",
+      "Burundi",
+      "Benin",
+      "Bermudas",
+      "Brunei Darussalam",
+      "Brasilien",
+      "Bahamas",
+      "Bhutan",
+      "Bouvet Island",
+      "Botswana",
+      "Weißrußland (Belarus)",
+      "Belize",
+      "Canada",
+      "Cocos (Keeling) Islands",
+      "Demokratische Republik Kongo",
+      "Zentralafrikanische Republik",
+      "Kongo",
+      "Schweiz",
+      "Elfenbeinküste (Cote D'Ivoire)",
+      "Cook Islands",
+      "Kamerun",
+      "China",
+      "Costa Rica",
+      "Tschechoslowakei (ehemalige)",
+      "Kuba",
+      "Kap Verde",
+      "Christmas Island",
+      "Zypern",
+      "Tschechische Republik",
+      "Deutschland",
+      "Djibouti",
+      "Dänemark",
+      "Dominica",
+      "Dominikanische Republik",
+      "Estland",
+      "Ägypten",
+      "Westsahara",
+      "Eritrea",
+      "Spanien",
+      "Äthiopien",
+      "Finnland",
+      "Fiji",
+      "Falkland-Inseln (Malvinas)",
+      "Micronesien",
+      "Faröer-Inseln",
+      "Frankreich",
+      "France, Metropolitan",
+      "Gabon",
+      "Grenada",
+      "Georgien",
+      "Französisch Guiana",
+      "Ghana",
+      "Gibraltar",
+      "Grönland",
+      "Gambia",
+      "Guinea",
+      "Guadeloupe",
+      "Äquatorialguinea",
+      "Griechenland",
+      "Südgeorgien und Südliche Sandwich-Inseln",
+      "Guatemala",
+      "Guam",
+      "Guinea-Bissau",
+      "Guyana",
+      "Hong Kong",
+      "Heard und Mc Donald Islands",
+      "Honduras",
+      "Haiti",
+      "Ungarn",
+      "Indonesien",
+      "Irland",
+      "Israel",
+      "Indien",
+      "British Indian Ocean Territory",
+      "Irak",
+      "Iran (Islamische Republik)",
+      "Island",
+      "Italien",
+      "Jamaica",
+      "Jordanien",
+      "Japan",
+      "Kenia",
+      "Kirgisien",
+      "Königreich Kambodscha",
+      "Kiribati",
+      "Komoren",
+      "Saint Kitts und Nevis",
+      "Korea, Volksrepublik",
+      "Korea",
+      "Kuwait",
+      "Kayman Islands",
+      "Kasachstan",
+      "Laos",
+      "Libanon",
+      "Saint Lucia",
+      "Liechtenstein",
+      "Sri Lanka",
+      "Liberia",
+      "Lesotho",
+      "Litauen",
+      "Luxemburg",
+      "Lettland",
+      "Libyen",
+      "Marokko",
+      "Monaco",
+      "Moldavien",
+      "Madagaskar",
+      "Marshall-Inseln",
+      "Mazedonien, ehem. Jugoslawische Republik",
+      "Mali",
+      "Myanmar",
+      "Mongolei",
+      "Macao",
+      "Nördliche Marianneninseln",
+      "Martinique",
+      "Mauretanien",
+      "Montserrat",
+      "Malta",
+      "Mauritius",
+      "Malediven",
+      "Malawi",
+      "Mexico",
+      "Malaysien",
+      "Mozambique",
+      "Namibia",
+      "Neu Kaledonien",
+      "Niger",
+      "Norfolk Island",
+      "Nigeria",
+      "Nicaragua",
+      "Niederlande",
+      "Norwegen",
+      "Nepal",
+      "Nauru",
+      "Niue",
+      "Neuseeland",
+      "Oman",
+      "Französisch Polynesien",
+      "Papua Neuguinea",
+      "Philippinen",
+      "Pakistan",
+      "Polen",
+      "St. Pierre und Miquelon",
+      "Pitcairn",
+      "Puerto Rico",
+      "Portugal",
+      "Palau",
+      "Paraguay",
+      "Katar",
+      "Reunion",
+      "Rumänien",
+      "Russische Föderation",
+      "Ruanda",
+      "Saudi Arabien",
+      "Salomonen",
+      "Seychellen",
+      "Sudan",
+      "Schweden",
+      "Singapur",
+      "St. Helena",
+      "Slovenien",
+      "Svalbard und Jan Mayen Islands",
+      "Slowakei",
+      "Sierra Leone",
+      "San Marino",
+      "Senegal",
+      "Somalia",
+      "Surinam",
+      "Sao Tome und Principe",
+      "El Salvador",
+      "Syrien, Arabische Republik",
+      "Swaziland",
+      "Turk und Caicos-Inseln",
+      "Tschad",
+      "Französisches Südl.Territorium",
+      "Togo",
+      "Thailand",
+      "Tadschikistan",
+      "Tokelau",
+      "Turkmenistan",
+      "Tunesien",
+      "Tonga",
+      "Ost-Timor",
+      "Türkei",
+      "Trinidad und Tobago",
+      "Tuvalu",
+      "Taiwan",
+      "Tansania, United Republic of",
+      "Ukraine",
+      "Uganda",
+      "Großbritannien",
+      "Vereinigte Staaten",
+      "Vereinigte Staaten, Minor Outlying Islands",
+      "Uruguay",
+      "Usbekistan",
+      "Vatikanstaat",
+      "Saint Vincent und Grenadines",
+      "Virgin Islands (Britisch)",
+      "Virgin Islands (U.S.)",
+      "Vietnam",
+      "Vanuatu",
+      "Wallis und Futuna Islands",
+      "Samoa",
+      "Jemen",
+      "Mayotte",
+      "Jugoslawien",
+      "Südafrika",
+      "Sambia",
+      "Zimbabwe"
+    ]
+  },
+  {
+    "question": "Liste in der richtigen Reihenfolge die 10 größten Kartoffel Produzenten.",
+    "type": "sort",
+    "domain": "kartoffel",
+    "right": [
+      "China",
+      "Indien",
+      "Ukraine",
+      "Vereinigte Staaten",
+      "Russische Föderation",
+      "Deutschland",
+      "Bangladesh",
+      "Frankreich",
+      "Polen",
+      "Ägypten"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Die Kartoffel kam um 1560 über die Kanarischen Inseln nach Europa. Ab 1647 wurden sie durch ______ im Heiligen Römischen Reich angebaut.",
+    "type": "FIB",
+    "domain": "kartoffel",
+    "right": ["Kaiser Ferdinand III"],
+    "wrong": []
+  },
+  {
+    "question": "Schreibe einen kurzen Text darüber zu welchem Zweck die Kartoffel in Europa zuerst Kultiviert wurde.",
+    "type": "FIB",
+    "domain": "kartoffel",
+    "right": ["Zierpflanze"],
+    "wrong": []
+  },
+  {
+    "question": "Es gibt eine vielezahl von Bakterien, Pilzkrankheiten und Schädlingen die der Kartoffel zusetzen. Der Kartoffelkäfer ist ein so ein Schädling. Aus welchem Land wurde der Kartoffelkäfer eingeschleppt?",
+    "type": "FIB",
+    "domain": "kartoffel",
+    "right": ["Mexiko"],
+    "wrong": []
+  },
+  {
+    "question": "Wer brachte die Kartoffel nach Europa?",
+    "type": "FIB",
+    "domain": "kartoffel",
+    "right": ["spanische Eroberer"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die Bestandteile der Kartoffel nach ihrem prozentualen Vorkommen. Beginne mit dem Größten.",
+    "type": "sort",
+    "domain": "kartoffel",
+    "right": ["Wasser", "Kohlenhydrate", "Ballaststoffe", "Eiweiß", "Fett"],
+    "wrong": []
+  },
+  {
+    "question": "Welche Teile der Kartoffelpflanze sind giftig?",
+    "type": "MCQ",
+    "domain": "kartoffel",
+    "right": ["Blätter", "Blüten", "grüne Knollen", "gekeimte Knollen"],
+    "wrong": ["Knolle"]
+  },
+  {
+    "question": "Wie viele Knollen können aus einer Mutterknolle entstehen?",
+    "type": "SCQ",
+    "domain": "kartoffel",
+    "right": ["5-10"],
+    "wrong": ["2-3", "15-20", "12-18"]
+  },
+  {
+    "question": "Wie viele kg Kartoffeln isst jeder Deutsch pro Jahr durchschnittlich?",
+    "type": "FIB",
+    "domain": "kartoffel",
+    "right": ["50"],
+    "wrong": []
+  },
+  {
+    "question": "Welche Speisen werden aus Kartoffeln gemacht?",
+    "type": "MCQ",
+    "domain": "kartoffel",
+    "right": ["Pommes", "Kroketten", "Gnocchi", "Rösti"],
+    "wrong": ["Buletten", "Nudeln", "Reis"]
+  },
+  {
+    "question": "Wie nennt man die Kartoffel noch?",
+    "type": "FIB",
+    "domain": "kartoffel",
+    "right": ["Erdapfel"],
+    "wrong": []
+  },
+  {
+    "question": "Wie heißt eine beliebte Kartoffelsorte?",
+    "type": "SCQ",
+    "domain": "kartoffel",
+    "right": ["Bamberger Hörnchen"],
+    "wrong": [
+      "Freiburger Knöllchen",
+      "Münchner Kartöffelchen",
+      "Nürnberger Erdäpfelchen"
+    ]
+  },
+  {
+    "question": "Welche Typen von Kartoffeln gibt es?",
+    "type": "MCQ",
+    "domain": "kartoffel",
+    "right": ["festkochend", "mehligkochend", "vorwiegend festkochend"],
+    "wrong": ["weichkochend", "schaumigkochend", "schnellkochend"]
+  },
+  {
+    "question": "Zu welcher Familie gehört die Kartoffel?",
+    "type": "FIB",
+    "domain": "kartoffel",
+    "right": ["Nachtschattengewächse"],
+    "wrong": []
+  },
+  {
+    "question": "Wie sollte man Kartoffeln am besten lagern?",
+    "type": "SCQ",
+    "domain": "kartoffel",
+    "right": ["kühl, luftig, dunkel"],
+    "wrong": [
+      "warm und feucht",
+      "hell und sonnig",
+      "Kartoffeln kann man nicht lagern",
+      "Kartoffeln kann man überall lagern"
+    ]
+  },
+  {
+    "question": "Ordne die Gerichte den Kartoffeltypen zu, für die sie sich besonders gut eignen.",
+    "type": "category",
+    "domain": "kartoffel",
+    "right": [
+      { "key": "mehligkochend", "value": ["Kartoffelbrei", "Süßspeisen"] },
+      { "key": "festkochend", "value": ["Kartoffelsalat", "Chips"] },
+      {
+        "key": "vorwiegend festkochend",
+        "value": ["Quetschkartoffeln", "Rösti"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["mehligkochend", "vorwiegend festkochend", "festkochend"]
+  },
+  {
+    "question": "Genießbare Kartoffeln gibt es in verschiedenen Farben. Welche sind das?",
+    "type": "MCQ",
+    "domain": "kartoffel",
+    "right": ["gelb", "blau", "rosa", "dunkelrot"],
+    "wrong": ["grün", "braun", "grau", "weiß", "schwarz"]
+  },
+  {
+    "question": "Wie viele Kartoffelsorten gibt es ca. weltweit?",
+    "type": "SCQ",
+    "domain": "kartoffel",
+    "right": ["2000"],
+    "wrong": ["180", "5000", "30", "3500", "800"]
+  },
+  {
+    "question": "Ordne die folgenden europäischen Länder aufsteigend nach ihrem durchschnittlichem pro-Kopf Jahresverbrauch an Kartoffeln.",
+    "type": "sort",
+    "domain": "kartoffel",
+    "right": [
+      "Italien",
+      "Deutschland",
+      "Rumänien",
+      "Ukraine",
+      "Russische Föderation",
+      "Belarus"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden europäischen Länder aufsteigend nach der Größe ihrer Anbaufläche, die für Kartoffeln verwendet wird.",
+    "type": "sort",
+    "domain": "kartoffel",
+    "right": [
+      "Irland",
+      "Dänemark",
+      "Belgien",
+      "Frankreich",
+      "Deutschland",
+      "Polen",
+      "Ukraine",
+      "Russische Föderation"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die Kartoffelsorten den richtigen Farben ihrer Schale zu.",
+    "type": "category",
+    "domain": "kartoffel",
+    "right": [
+      {
+        "key": "gelb",
+        "value": ["Amandine", "Belmonda", "Colomba", "Queen Anne"]
+      },
+      {
+        "key": "rot",
+        "value": ["Cheyenne", "Désirée", "Laura", "Lady Rosetta"]
+      },
+      { "key": "blau", "value": ["Vitelotte", "Viola"] }
+    ],
+    "wrong": [],
+    "categories": ["gelb", "rot", "blau"]
+  },
+  {
+    "question": "Für die Zubereitung welche Gerichte eignen sich festkochende Karoffeln besonders gut?",
+    "type": "MCQ",
+    "domain": "kartoffel",
+    "right": [
+      "Bratkartoffeln",
+      "Chips",
+      "Kartoffelsalat",
+      "Kartoffelgratin",
+      "Pommes",
+      "Pellkartoffeln"
+    ],
+    "wrong": [
+      "Biskuitteig",
+      "Kekse",
+      "Gnocchi",
+      "Knödel",
+      "Rösti",
+      "Eintöpfe",
+      "Kartoffelpüree"
+    ]
+  },
+  {
+    "question": "Für die Zubereitung welche Gerichte eignen sich vorwiegend festkochende Karoffeln besonders gut?",
+    "type": "MCQ",
+    "domain": "kartoffel",
+    "right": [
+      "Bratkartoffeln",
+      "Gnocchi",
+      "Knödel",
+      "Schupfnudeln",
+      "Rösti",
+      "Questschkartoffeln"
+    ],
+    "wrong": ["Kartoffelsalat", "Kekse", "Kartoffelkroketten", "Biskuitteig"]
+  },
+  {
+    "question": "Für die Zubereitung welche Gerichte eignen sich mehligkochende Karoffeln besonders gut?",
+    "type": "MCQ",
+    "domain": "kartoffel",
+    "right": [
+      "Biskuitteig",
+      "Eintöpfe",
+      "Kartoffelkroketten",
+      "Kartoffelpüree",
+      "Kartoffelsuppe",
+      "Muffins",
+      "Kekse"
+    ],
+    "wrong": [
+      "Kartoffelsalat",
+      "Pommes",
+      "Bratkartoffeln",
+      "Pellkartoffeln",
+      "Salzkartoffeln"
+    ]
+  },
+  {
+    "question": "Deutschland hat einen hohen Selbstversorgungsgrad bei Kartoffeln. Dennoch wurden 2022 über 500.000 Tonnen Kartoffeln importiert. Ordne die folgenden Länder absteigend nach ihrer gelieferten Menge.",
+    "type": "sort",
+    "domain": "kartoffel",
+    "right": [
+      "Niederlande",
+      "Frankreich",
+      "Ägypten",
+      "Spanien",
+      "Belgien",
+      "Israel"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die nachfolgenden Länder absteigend nach der Menge der aus Deutschland importierten Kartoffeln.",
+    "type": "sort",
+    "domain": "kartoffel",
+    "right": [
+      "Niederlande",
+      "Belgien",
+      "Italien",
+      "Polen",
+      "Tschechien",
+      "Österreich",
+      "Dänemark"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Ornde die Kartoffelsorten ihren Typen zu.",
+    "type": "category",
+    "domain": "kartoffel",
+    "right": [
+      { "key": "festkochend", "value": ["Amandine", "Ballerina", "Charlotte"] },
+      {
+        "key": "vorwiegend festkochend",
+        "value": ["Finka", "Granola", "Marabel"]
+      },
+      { "key": "mehligkochend", "value": ["Agria", "Désirée", "Jelly"] }
+    ],
+    "wrong": [],
+    "categories": ["festkochend", "vorwiegend festkochend", "mehligkochend"]
+  },
+  {
+    "question": "Entscheide, ob nachfolgende Länder mehr Kartoffeln importieren oder exportieren.",
+    "type": "category",
+    "domain": "kartoffel",
+    "right": [
+      {
+        "key": "mehr Import",
+        "value": ["Belgien", "Italien", "USA", "Portugal"]
+      },
+      {
+        "key": "mehr Export",
+        "value": ["Deutschland", "Niederlande", "Frankreich", "Kanada"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["mehr Import", "mehr Export"]
+  },
+  {
+    "question": "Ordne die Kartoffelsorten in Frühkartoffeln und Spätkartoffeln.",
+    "type": "category",
+    "domain": "kartoffel",
+    "right": [
+      {
+        "key": "Frühkartoffel",
+        "value": ["Annabelle", "Finka", "Glorietta", "Hela"]
+      },
+      {
+        "key": "Spätkartoffel",
+        "value": ["Blaue Anneliese", "Carolus", "Heiderot", "Vitelotte"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["Frühkartoffel", "Spätkartoffel"]
+  },
+  {
+    "question": "Sortiere die folgenden Pflanzen in die Kategorien 'Ungiftig' oder 'Giftig'.",
+    "type": "category",
+    "domain": "pflanzenidentifikation",
+    "right": [
+      {
+        "key": "Giftig",
+        "value": [
+          "Fingerhut",
+          "Tollkirsche",
+          "Kreuzkraut",
+          "Hundspetersilie",
+          "Herbstzeitlose"
+        ]
+      },
+      {
+        "key": "Ungiftig",
+        "value": ["Beinwell", "Heidelbeere", "Rucola", "Petersilie", "Bärlauch"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["Giftig", "Ungiftig"]
+  },
+  {
+    "question": "Sortiere die folgenden Pilze in die Kategorien 'Ungiftig' oder 'Giftig'.",
+    "type": "category",
+    "domain": "pflanzenidentifikation",
+    "right": [
+      {
+        "key": "Giftig",
+        "value": [
+          "Satansröhrling",
+          "Pantherpilz",
+          "Knollenblätterpilz",
+          "Gifthäubling",
+          "Blasse Koralle"
+        ]
+      },
+      {
+        "key": "Ungiftig",
+        "value": [
+          "Steinpilz",
+          "Parasol",
+          "Wiesenchampignon",
+          "Stockschwämmchen",
+          "Krause Glucke"
+        ]
+      }
+    ],
+    "wrong": [],
+    "categories": ["Giftig", "Ungiftig"]
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Rose'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Rose"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Quercus'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Eiche"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Tulipa'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Tulpe"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Ficus'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Feige"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Pinus'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Kiefer"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Acer'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Ahorn"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Ricinus'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Rizinus"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Lavandula'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Lavendel"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Olea europaea'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Olivenbaum"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Papaver'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Mohn"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Lilium'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Lilie"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Salvia'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Salbei"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Prunus'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Kirsche"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Camellia'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Kamelie"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Hydrangea'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Hortensie"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Cactaceae'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Kaktus"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Narcissus'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Narzisse"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Iris'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Schwertlilie"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Cocos nucifera'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Kokospalme"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Fragaria'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Erdbeere"],
+    "wrong": []
+  },
+  {
+    "question": "Die lateinische Bezeichnung für ____ ist 'Helianthus'.",
+    "type": "FIB",
+    "domain": "pflanzenidentifikation",
+    "right": ["Sonnenblume"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die Bäume aufsteigend nach der Größe ihrer Blätter.",
+    "type": "sort",
+    "domain": "pflanzenidentifikation",
+    "right": ["Buche", "Ahorn", "Kastanie", "Esche"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die Pilze nach ihrer Giftigkeit, beginnend mit dem am wenigsten giftigen.",
+    "type": "sort",
+    "domain": "pflanzenidentifikation",
+    "right": [
+      "Champignon",
+      "Maronenröhrling",
+      "Fliegenpilz",
+      "Knollenblätterpilz"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden Bäume nach ihrer Wuchshöhe, beginnend mit dem kleinsten.",
+    "type": "sort",
+    "domain": "pflanzenidentifikation",
+    "right": ["Zwergbirke", "Bonsai", "Eibe", "Douglasie"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden Bäume nach ihrer Blattform, beginnend mit dem länglichsten Blatt.",
+    "type": "sort",
+    "domain": "pflanzenidentifikation",
+    "right": ["Pappel", "Kastanie", "Eiche", "Weide"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden Pilze nach ihrer Farbe, beginnend mit dem hellsten.",
+    "type": "sort",
+    "domain": "pflanzenidentifikation",
+    "right": [
+      "Champignon",
+      "Steinpilz",
+      "Fliegenpilz",
+      "Schwarzhütiger Röhrling"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden Blumen nach der Größe ihrer Blüten, beginnend mit der kleinsten.",
+    "type": "sort",
+    "domain": "pflanzenidentifikation",
+    "right": ["Veilchen", "Gänseblümchen", "Sonnenblume", "Dahlie"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden Zimmerpflanzen nach der Anzahl ihrer Blätter, beginnend mit der geringsten Anzahl.",
+    "type": "sort",
+    "domain": "pflanzenidentifikation",
+    "right": ["Kaktus", "Ficus", "Monstera", "Gummibaum"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden Obstsorten nach der Form ihrer Früchte, beginnend mit der rundesten.",
+    "type": "sort",
+    "domain": "pflanzenidentifikation",
+    "right": ["Orange", "Apfel", "Birne", "Banane"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden Kräuter nach ihrem Geruch, beginnend mit dem dezentesten.",
+    "type": "sort",
+    "domain": "pflanzenidentifikation",
+    "right": ["Basilikum", "Thymian", "Minze", "Rosmarin"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden Kakteen nach der Länge ihrer Dornen, beginnend mit den kürzesten.",
+    "type": "sort",
+    "domain": "pflanzenidentifikation",
+    "right": ["Echinocactus", "Opuntia", "Mammillaria", "Astrophytum"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden Ziergräser nach ihrer Wuchshöhe, beginnend mit dem niedrigsten.",
+    "type": "sort",
+    "domain": "pflanzenidentifikation",
+    "right": ["Lampenputzergras", "Chinaschilf", "Pampasgras", "Miscanthus"],
+    "wrong": []
+  },
+  {
+    "question": "Welche Blume erkennt man klassisch an ihren gelben Blättern?",
+    "type": "MCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Sonnenblume", "Osterglocke", "Goldglöckchen"],
+    "wrong": ["Gänseblümchen", "Vergissmeinnicht", "Amaryllis", "Rittersporn"]
+  },
+  {
+    "question": "Welche Pflanze hat große, herzförmige Blätter und wird oft als Zimmerpflanze gehalten?",
+    "type": "SCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Monstera"],
+    "wrong": ["Ficus", "Bonsai", "Dieffenbachia", "Kaktus", "Orchidee"]
+  },
+  {
+    "question": "Welche Pflanze ist bekannt für ihre weißen, duftenden Blüten und ist oft Bestandteil von Parfüms?",
+    "type": "SCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Jasmin"],
+    "wrong": ["Lavendel", "Rosen", "Orchidee", "Raps"]
+  },
+  {
+    "question": "Welche Pflanze hat grüne, kleine Blätter und ist ein Symbol für Irland?",
+    "type": "SCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Klee"],
+    "wrong": ["Efeu", "Farn", "Bambus", "Moos"]
+  },
+  {
+    "question": "Welche Pflanze hat gelbe Blüten und wird in seiner späteren Form auch als Pusteblume bezeichnet?",
+    "type": "SCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Löwenzahn"],
+    "wrong": [
+      "Gänseblümchen",
+      "Distel",
+      "Krokus",
+      "Rose",
+      "Osterglocke",
+      "Löwenmäulchen",
+      "Tigerzahn"
+    ]
+  },
+  {
+    "question": "Welche Pflanze hat violette Blüten und ist eine beliebte Zierpflanze?",
+    "type": "SCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Lavendel"],
+    "wrong": ["Anis", "Gänseblümchen", "Sonnenblume"]
+  },
+  {
+    "question": "Welche Pflanze hat große, gelbe Blüten und wird oft als Symbol für den Frühling verwendet?",
+    "type": "SCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Tulpe"],
+    "wrong": ["Rose", "Lilie", "Margerite"]
+  },
+  {
+    "question": "Welche Pflanze hat blau-violette Blüten und wird oft als Symbol für Treue betrachtet?",
+    "type": "MCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Veilchen", "Vergissmeinnicht"],
+    "wrong": ["Sonnenblume", "Rose", "Orchidee"]
+  },
+  {
+    "question": "Welche Pflanze hat rote, herzförmige Blätter und wird oft mit Weihnachten in Verbindung gebracht?",
+    "type": "SCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Weihnachtsstern"],
+    "wrong": ["Ficus", "Bonsai", "Dieffenbachia", "Sternblume"]
+  },
+  {
+    "question": "Welche Pflanze hat weiße Blüten und wird oft als Hochzeitsblume verwendet?",
+    "type": "MCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Orchidee", "Schafgarbe", "Schleierkraut"],
+    "wrong": ["Rosen", "Tulpe", "Lavendel", "Vergissmeinnicht", "Kornblume"]
+  },
+  {
+    "question": "Welche Pflanze hat gelbe, duftende Blüten und wird oft in Parfüms verwendet?",
+    "type": "SCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Gardenie"],
+    "wrong": ["Jasmin", "Lilie", "Veilchen", "Raps"]
+  },
+  {
+    "question": "Welche Pflanze hat rote Früchte und wird oft im Sommer gegessen?",
+    "type": "MCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Erdbeere", "Himbeere", "Kirsche", "Johannisbeere"],
+    "wrong": ["Blaubeere", "Birne", "Bananen", "Stachelbeere"]
+  },
+  {
+    "question": "Welche Pflanze hat gelbe Blüten und wird oft als Teepflanze verwendet?",
+    "type": "SCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Kamille"],
+    "wrong": [
+      "Pfefferminze",
+      "Lavendel",
+      "Jasmin",
+      "Sonnenblume",
+      "Osterglocke"
+    ]
+  },
+  {
+    "question": "Welche Pflanze hat rote oder rosa Blüten und wird oft als Symbol für Romantik betrachtet?",
+    "type": "SCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Rose"],
+    "wrong": ["Tulpe", "Lilie", "Sonnenblume", "Amaryllis"]
+  },
+  {
+    "question": "Welche Pflanze hat gelbe, duftende Blüten und wird oft als Gewürz verwendet?",
+    "type": "SCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Kurkuma"],
+    "wrong": ["Ingwer", "Oregano", "Koriander", "Kümmel", "Zimt"]
+  },
+  {
+    "question": "Welche Pflanze hat grüne, längliche Blätter und wird oft als Gemüse gegessen?",
+    "type": "SCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Salat"],
+    "wrong": ["Spinat", "Kohl", "Sellerie"]
+  },
+  {
+    "question": "Welche Pflanze hat gelbe oder orange Blüten und wird oft als Symbol für Wärme und Sonne betrachtet?",
+    "type": "MCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Ringelblume", "Sonnenblume"],
+    "wrong": ["Rose", "Lilie", "Veilchen"]
+  },
+  {
+    "question": "Welche Pflane hat große, gelbe Blüten und wird oft als Symbol für Reichtum betrachtet?",
+    "type": "SCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Goldregen"],
+    "wrong": ["Sonnenblume", "Löwenzahn", "Margerite", "Vergissmeinnicht"]
+  },
+  {
+    "question": "Welche Pflanze hat rosa Blüten und wird oft als Symbol für Schönheit betrachtet?",
+    "type": "SCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Magnolie"],
+    "wrong": ["Rose", "Lilie", "Sonnenblume"]
+  },
+  {
+    "question": "Welche Pflanze hat rosa/violette Blüten und wird oft als Gewürz verwendet?",
+    "type": "MCQ",
+    "domain": "pflanzenidentifikation",
+    "right": ["Lavendel", "Rosmarin", "Oregano", "Strauchbasilikum", "Kurkuma"],
+    "wrong": ["Curry", "Zimt", "Anis", "Vergissmeinnicht"]
+  },
+  {
+    "question": "Welche Pflanze ist typisch für die Alpenregion und wächst in Höhenlagen?",
+    "type": "SCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["Edelweiß"],
+    "wrong": ["Sonnenblume", "Orchidee", "Tulpe"]
+  },
+  {
+    "question": "In welchem Land ist der Eukalyptusbaum heimisch?",
+    "type": "SCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["Australien"],
+    "wrong": ["Indonesien", "Brasilien", "Südafrika"]
+  },
+  {
+    "question": "Welches Land ist bekannt für seine Kirschblüten?",
+    "type": "SCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["Japan"],
+    "wrong": ["Spanien", "Italien", "Frankreich"]
+  },
+  {
+    "question": "In welcher Region findet man die Victoria-Wasserlilie, eine der größten Wasserpflanzen der Welt?",
+    "type": "SCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["Südamerika"],
+    "wrong": ["Afrika", "Asien", "Australien"]
+  },
+  {
+    "question": "Wo wachsen typischerweise Kakaobäume, die für die Produktion von Schokolade verwendet werden?",
+    "type": "SCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["Tropische Regionen"],
+    "wrong": ["Gemäßigte Regionen", "Wüstenregionen", "Polarregionen"]
+  },
+  {
+    "question": "In welchem Land findet man den Saguaro-Kaktus, der ein Symbol für die Wüstenlandschaften Nordamerikas ist?",
+    "type": "SCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["USA"],
+    "wrong": ["Mexiko", "Kanada", "Brasilien"]
+  },
+  {
+    "question": "In welcher Region wachsen typischerweise die tropischen Regenwälder mit einer großen Vielfalt an Pflanzenarten?",
+    "type": "SCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["Äquatorregionen"],
+    "wrong": ["Polarregionen", "Wüstenregionen", "Gemäßigte Regionen"]
+  },
+  {
+    "question": "Welches Land ist bekannt für seine Lavendelfelder und die Produktion von Lavendelöl?",
+    "type": "SCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["Frankreich"],
+    "wrong": ["Spanien", "Italien", "Griechenland"]
+  },
+  {
+    "question": "In welchem Land findet man die einzigartige Pflanzenwelt der Galapagos-Inseln?",
+    "type": "SCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["Ecuador"],
+    "wrong": ["Peru", "Kolumbien", "Brasilien"]
+  },
+  {
+    "question": "Welche der folgenden Begriffe sind Subregionen des Florenreichs 'Holarktis'?",
+    "type": "MCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["arktisch", "boreal", "temperat", "submeridional", "meridional"],
+    "wrong": [
+      "subarktisch",
+      "moderat",
+      "supermeridional",
+      "orbital",
+      "eurasisch"
+    ]
+  },
+  {
+    "question": "Welche Flora ist in der arktischen Holarktis zu finden?",
+    "type": "MCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["Moose", "Sträucher", "Gräser", "Pilze", "Seggen"],
+    "wrong": ["Laubwälder"]
+  },
+  {
+    "question": "Welche Flora bzw. welche Gewächse sind in der borealen Holarktis zu finden?",
+    "type": "MCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["Nadelwälder", "Moosglöckchen", "Heckenkirsche"],
+    "wrong": ["Hartlaubvegetation", "Wüstensteppen"]
+  },
+  {
+    "question": "Welche Flora ist in der temperaten Holarktis zu finden?",
+    "type": "MCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["immergrüne Laubwälder", "Zwergstrauchheiden"],
+    "wrong": ["Lorbeerwälder", "Harlaubvegetation"]
+  },
+  {
+    "question": "Welche Flora ist in der submeridionalen Holarktis zu finden?",
+    "type": "MCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["Laubwälder", "Waldsteppen", "Trockenrasen"],
+    "wrong": ["Moose"]
+  },
+  {
+    "question": "Welche Flora ist in der meridionalen Holarktis zu finden?",
+    "type": "MCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["Hartlaubvegetation", "Lorbeerwälder"],
+    "wrong": ["immergrüne Laubwälder", "Buchenwälder"]
+  },
+  {
+    "question": "Welche Gewächse sind im Florenreich der Paläotropis zu finden?",
+    "type": "MCQ",
+    "domain": "geographischesvorkommen",
+    "right": [
+      "Schraubenbaumgewächse",
+      "Ingwergewächse",
+      "Maulbeergewächse",
+      "Flügelfruchtgewächse"
+    ],
+    "wrong": ["Kieferngewächse", "Tannengewächse"]
+  },
+  {
+    "question": "In welche Regionen lässt sich das Florenreich der Paläotropis weiter untergliedern?",
+    "type": "MCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["Afrikanisch", "Indomalayisch", "Polynesisch"],
+    "wrong": ["asiatisch", "peruanisch", "eurasisch"]
+  },
+  {
+    "question": "Welche Gewächse sind im Florenreich der Neotropis zu finden?",
+    "type": "MCQ",
+    "domain": "geographischesvorkommen",
+    "right": ["Ananasgewächse", "Agavengewächse", "Kakteengewächse"],
+    "wrong": ["Kieferngewächse"]
+  },
+  {
+    "question": "Ordne folgende Pflanzen ihrer primären geographischen Region zu.",
+    "type": "category",
+    "domain": "geographischesvorkommen",
+    "right": [
+      { "key": "Nordamerika", "value": ["Eiche", "Ahorn", "Kiefer", "Birke"] },
+      {
+        "key": "Afrika",
+        "value": ["Baobab", "Elefantenohr", "Protea", "Aloe Vera"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["Nordamerika", "Afrika"]
+  },
+  {
+    "question": "Finde für jede der folgenden Pflanzen ihre primäre geographische Region.",
+    "type": "category",
+    "domain": "geographischesvorkommen",
+    "right": [
+      {
+        "key": "Nordamerika",
+        "value": ["Wacholder", "Buche", "Walnuss", "Rot-Ahorn"]
+      },
+      {
+        "key": "Südamerika",
+        "value": ["Orchidee", "Kakteen", "Bromelien", "Passionsblume"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["Nordamerika", "Südamerika"]
+  },
+  {
+    "question": "Ordne den geographischen Regionen folgende Pflanzen zu.",
+    "type": "category",
+    "domain": "geographischesvorkommen",
+    "right": [
+      { "key": "Europa", "value": ["Eibe", "Lavendel", "Tulpe", "Rosmarin"] },
+      {
+        "key": "Australien",
+        "value": ["Eukalyptus", "Kangaroo Paw", "Waratah", "Banksia"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["Europa", "Australien"]
+  },
+  {
+    "question": "Matche folgende Pflanzen mit ihrer primären geographischen Region.",
+    "type": "category",
+    "domain": "geographischesvorkommen",
+    "right": [
+      {
+        "key": "Europa",
+        "value": ["Efeu", "Sonnenblume", "Weinrebe", "Kartoffel"]
+      },
+      { "key": "Asien", "value": ["Bambus", "Kirschblüte", "Bonsai", "Jasmin"] }
+    ],
+    "wrong": [],
+    "categories": ["Europa", "Asien"]
+  },
+  {
+    "question": "Entscheide, welche Pflanzen zu welcher geographischen Region gehören.",
+    "type": "category",
+    "domain": "geographischesvorkommen",
+    "right": [
+      {
+        "key": "Afrika",
+        "value": ["Kapernstrauch", "Kalahari-Wasser-Melone", "Kaffee", "Marula"]
+      },
+      { "key": "Asien", "value": ["Lotus", "Orangenbaum", "Reis", "Tee"] }
+    ],
+    "wrong": [],
+    "categories": ["Afrika", "Asien"]
+  },
+  {
+    "question": "Ordne folgende Pflanzen den geographischen Regionen Australien und Südamerika zu.",
+    "type": "category",
+    "domain": "geographischesvorkommen",
+    "right": [
+      {
+        "key": "Australien",
+        "value": ["Macadamia", "Grevillea", "Sturt-Wüstenrose", "Grasbaum"]
+      },
+      {
+        "key": "Südamerika",
+        "value": ["Gummibaum", "Begonie", "Fuchsie", "Hortensie"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["Australien", "Südamerika"]
+  },
+  {
+    "question": "Finde für jede Pflanze die primäre geographische Region.",
+    "type": "category",
+    "domain": "geographischesvorkommen",
+    "right": [
+      {
+        "key": "Holarktis",
+        "value": [
+          "Eiche",
+          "Ahorn",
+          "Kiefer",
+          "Birke",
+          "Wacholder",
+          "Buche",
+          "Walnuss",
+          "Rot-Ahorn",
+          "Douglasie",
+          "Esche"
+        ]
+      },
+      {
+        "key": "Paläotropis",
+        "value": [
+          "Baobab",
+          "Elefantenohr",
+          "Protea",
+          "Aloe Vera",
+          "Kapernstrauch",
+          "Kalahari-Wasser-Melone",
+          "Kaffee",
+          "Marula",
+          "Agave",
+          "Baum"
+        ]
+      },
+      {
+        "key": "Neotropis",
+        "value": [
+          "Orchidee",
+          "Kakteen",
+          "Bromelien",
+          "Passionsblume",
+          "Monstera",
+          "Gummibaum",
+          "Begonie",
+          "Fuchsie",
+          "Hortensie",
+          "Anthurie"
+        ]
+      },
+      {
+        "key": "Australis",
+        "value": [
+          "Eukalyptus",
+          "Kangaroo Paw",
+          "Waratah",
+          "Banksia",
+          "Boab",
+          "Macadamia",
+          "Grevillea",
+          "Wattle",
+          "Sturt-Wüstenrose",
+          "Grasbaum"
+        ]
+      },
+      { "key": "Antarktis", "value": [] },
+      {
+        "key": "Ozeanien",
+        "value": [
+          "Bambus",
+          "Kirschblüte",
+          "Bonsai",
+          "Jasmin",
+          "Lotus",
+          "Orangenbaum",
+          "Reis",
+          "Tee",
+          "Ingwer",
+          "Basilikum"
+        ]
+      }
+    ],
+    "wrong": [],
+    "categories": [
+      "Holarktis",
+      "Paläotropis",
+      "Neotropis",
+      "Australis",
+      "Antarktis",
+      "Capensis",
+      "Ozeanien"
+    ]
+  },
+  {
+    "question": "Sortiere folgende Pflanzen nach ihrer geographischen Region. Beginne mit der Nördlichsten.",
+    "type": "sort",
+    "domain": "geographischesvorkommen",
+    "right": ["Polarweiden", "Tundra-Gräser", "Taiga-Fichten", "Birken"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne folgende Pflanzen nach ihrer geographischen Region. Beginne mit der Nördlichsten.",
+    "type": "sort",
+    "domain": "geographischesvorkommen",
+    "right": ["Polarmohn", "Rentierflechte", "Wacholder", "Heidekraut"],
+    "wrong": []
+  },
+  {
+    "question": "Sortiere folgende Pflanzen nach ihrer geographischen Region. Beginne mit der Südlichsten.",
+    "type": "sort",
+    "domain": "geographischesvorkommen",
+    "right": ["Orangenbäume", "Eichen", "Kiefern", "Moosbeere"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne folgende Pflanzen nach ihrer geographischen Region. Beginne mit der Südlichsten.",
+    "type": "sort",
+    "domain": "geographischesvorkommen",
+    "right": ["Mangobäume", "Bananenstauden", "Olivenbaum", "Sonnentau"],
+    "wrong": []
+  },
+  {
+    "question": "Reihe folgende Pflanzen nach ihrer geographischen Region. Beginne mit der Nördlichsten.",
+    "type": "sort",
+    "domain": "geographischesvorkommen",
+    "right": ["Polarweiden", "Schlehendorn", "Zitronenbäume", "Palmen"],
+    "wrong": []
+  },
+  {
+    "question": "Der _______ Nadelwald ist die am nördlichsten gelegene Vegetationszone, in der noch Bäume wachsen.",
+    "type": "FIB",
+    "domain": "geographischesvorkommen",
+    "right": ["boreale"],
+    "wrong": []
+  },
+  {
+    "question": "Als _______ wird das Florenreich bezeichnet, welches die gesamte außertropische Nordhalbkugel umfasst.",
+    "type": "FIB",
+    "domain": "geographischesvorkommen",
+    "right": ["Holarktis"],
+    "wrong": []
+  },
+  {
+    "question": "Man unterscheidet auf der Erde _____ kontinentale Florenreiche sowie ein ozeanisches Florenreich.",
+    "type": "FIB",
+    "domain": "geographischesvorkommen",
+    "right": ["sechs"],
+    "wrong": []
+  },
+  {
+    "question": "Als _______ wird das Florenreich bezeichnet, welches die „Tropen der alten Welt“ umfasst.",
+    "type": "FIB",
+    "domain": "geographischesvorkommen",
+    "right": ["Paläotropis"],
+    "wrong": []
+  },
+  {
+    "question": "Als _______ wird das Florenreich bezeichnet, welches den Kontinent Australien, inklusive Tasmanien umfasst.",
+    "type": "FIB",
+    "domain": "geographischesvorkommen",
+    "right": ["Australis"],
+    "wrong": []
+  },
+  {
+    "question": "Als _______ wird das Florenreich bezeichnet, welches Antarktika, subantarktische Inseln wie zum Beispiel Kerguelen, die Südspitze Südamerikas und den Südwesten von Neuseeland umfasst.",
+    "type": "FIB",
+    "domain": "geographischesvorkommen",
+    "right": ["Antarktis"],
+    "wrong": []
+  },
+  {
+    "question": "Als _______ wird das Florenreich bezeichnet, welches die Kapregion in Südwestafrika umfasst.",
+    "type": "FIB",
+    "domain": "geographischesvorkommen",
+    "right": ["Capensis"],
+    "wrong": []
+  },
+  {
+    "question": "Als _______ wird das Florenreich bezeichnet, welches kontinentalferne Inseln im Bereich der Weltmeere, insbesondere im Pazifik, umfasst.",
+    "type": "FIB",
+    "domain": "geographischesvorkommen",
+    "right": ["Ozeanisches Florenreich"],
+    "wrong": []
+  },
+  {
+    "question": "Welcher Nützling hält Blattläuse, Spinnmilben und Raupen in Schach?",
+    "type": "SCQ",
+    "domain": "schädlingnützling",
+    "right": ["Florfliegen"],
+    "wrong": ["Hummeln", "Marienkäfer", "Schnecken", "Schlupfwespen"]
+  },
+  {
+    "question": "Wie viele Schneckenarten gibt es ca. in Deutschland?",
+    "type": "SCQ",
+    "domain": "schädlingnützling",
+    "right": ["400"],
+    "wrong": ["30", "1000", "20 000"]
+  },
+  {
+    "question": "Wodurch unterscheiden sich Wühlmäuse von echten Mäusen?",
+    "type": "SCQ",
+    "domain": "schädlingnützling",
+    "right": ["kurzer Schwanz, plumper Körperbau, kleine Ohren"],
+    "wrong": ["Farbe", "Lebensdauer", "Körpergröße"]
+  },
+  {
+    "question": "Welche Nützlinge können wir in der Regel nicht mit dem bloßen Auge sehen?",
+    "type": "SCQ",
+    "domain": "schädlingnützling",
+    "right": ["Bakterien und Pilze"],
+    "wrong": ["Asseln", "Regenwürmer", "Igel", "Marienkäfer"]
+  },
+  {
+    "question": "Ab Ende Mai kann man einen schwarzen, 10 bis 12 Millimeter großen Käfer im Garten finden. Um welches Insekt kann es sich hier handeln?",
+    "type": "SCQ",
+    "domain": "schädlingnützling",
+    "right": ["Dickmaulrüssler"],
+    "wrong": ["Marienkäfer", "Buchsbaumzünsler", "Thripse", "Spinnmilben"]
+  },
+  {
+    "question": "Wähle alle Nützlinge",
+    "type": "MCQ",
+    "domain": "schädlingnützling",
+    "right": ["Florfliegen", "Marienkäfer", "Laufkäfer", "Hummeln"],
+    "wrong": ["Dickmaulrüssler", "Wegschnecken", "Spinnmilben", "Wühlmäuse"]
+  },
+  {
+    "question": "Wähle alle Arten von Läusen, sie für Pflanzen schädlich sind.",
+    "type": "MCQ",
+    "domain": "schädlingnützling",
+    "right": ["Blattläuse", "Staubläuse", "Wollläuse", "Schildläuse"],
+    "wrong": ["Kopfläuse", "Filzläuse", "Kleiderläuse"]
+  },
+  {
+    "question": "Welche Insekten sorgen neben den Bienen und Hummeln für das Bestäuben der Pflanzen?",
+    "type": "MCQ",
+    "domain": "schädlingnützling",
+    "right": ["Fliegen", "Schmetterlinge", "Nachtfalter"],
+    "wrong": ["Ameisen", "Mücken", "Käfer"]
+  },
+  {
+    "question": "Bei welchen Schädlingen hilft die Meise?",
+    "type": "MCQ",
+    "domain": "schädlingnützling",
+    "right": ["Frostspannerraupen", "Gespinstmotten"],
+    "wrong": ["Regenwürmer", "Spinnmilben", "Blattläuse", "Ameisen"]
+  },
+  {
+    "question": "Ohrwürmer sind Nützlinge und bekämpfen unter anderem Blattläuse und Spinnmilben. Findet er aber nicht genug davon wird er selbst zum Schädling. Welche Pflanzen knabbert er an?",
+    "type": "MCQ",
+    "domain": "schädlingnützling",
+    "right": ["Zwetschgen", "Chrysanthemen", "Dahlien", "Trauben"],
+    "wrong": ["Buchen", "Gurken", "Gras", "Tannen"]
+  },
+  {
+    "question": "Ordne die folgenden Insekten nach ihrer maximalen Größe. Beginne mit dem kleinsten Insekt",
+    "type": "sort",
+    "domain": "schädlingnützling",
+    "right": ["Biene", "Wespe", "Hummel", "Hornisse"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden Schädlinge nach ihrer Größe. Beginne mit dem Kleinsten.",
+    "type": "sort",
+    "domain": "schädlingnützling",
+    "right": [
+      "Spinnmilbe",
+      "Schildlaus",
+      "Blattlaus",
+      "Buchsbaumzünsler",
+      "Nacktschnecke"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Orden die nachfolgenden Begriffe nach ihren global verursachten Kosten im Zeitraum 2000-2019. Beginne mit den geringsten Kosten.",
+    "type": "sort",
+    "domain": "schädlingnützling",
+    "right": [
+      "Waldbrände",
+      "Dürre",
+      "Erdbeben",
+      "Hochwasser",
+      "Invasive Arten",
+      "Stürme"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden Nützlinge nach ihrer Größe. Beginne mit dem Größten.",
+    "type": "sort",
+    "domain": "schädlingnützling",
+    "right": [
+      "Meise",
+      "Großlaufkäfer",
+      "Ohrwurm",
+      "Marienkäfer",
+      "Schlupfwespe"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die Tiere nach der maximalen Anzahl an Eiern, die sie in einem Jahr legen. Beginne mit der kleinsten Anzahl.",
+    "type": "sort",
+    "domain": "schädlingnützling",
+    "right": [
+      "Ohrwurm",
+      "Blattlaus",
+      "Schnecken",
+      "Dickmaulrüssler",
+      "Marienkäfer"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Die _______ (Coccinellidae) sind eine weltweit verbreitete Familie halbkugeliger, flugfähiger Käfer, deren Deckflügel meist eine unterschiedliche Anzahl von auffälligen Punkten aufweisen. Viele Arten ernähren sich von Blatt- und Schildläusen. Es sind mehr als 6000 Arten bekannt",
+    "type": "FIB",
+    "domain": "schädlingnützling",
+    "right": ["Marienkäfer"],
+    "wrong": []
+  },
+  {
+    "question": "Blattläuse zählen zur größten Schädlingsgruppe im Garten. In kleinen Kolonien sitzen sie oft gut getarnt auf der _____ des Blattes.",
+    "type": "FIB",
+    "domain": "schädlingnützling",
+    "right": ["Unterseite"],
+    "wrong": []
+  },
+  {
+    "question": "Ähnlich wie ______ legen Wühlmäuse unter der Erde ein verzweigtes Gängesystem an.",
+    "type": "FIB",
+    "domain": "schädlingnützling",
+    "right": ["Maulwürfe"],
+    "wrong": []
+  },
+  {
+    "question": "Auf ihren nächtlichen Raubzügen säubern Laufkäfer die Gemüsebeete von den Larven der Möhrenfliege und anderen Schädlingen, die an _______ fressen.",
+    "type": "FIB",
+    "domain": "schädlingnützling",
+    "right": ["Wurzeln", "Stängeln"],
+    "wrong": []
+  },
+  {
+    "question": "Viele ekeln sich vor ihnen, doch ______ sind ein ganz wesentlicher biologischer Faktor im Garten. Sie gehen entweder aktiv auf die Jagd und bauen dann keine Netze oder sie sind Lauerjäger und warten, dass sich ihre Beute in den vorbereiteten Netzen verfängt.",
+    "type": "FIB",
+    "domain": "schädlingnützling",
+    "right": ["Spinnen"],
+    "wrong": []
+  },
+  {
+    "question": "Entscheide, ob es sich um einen Nützling oder einen Schädling handelt.",
+    "type": "category",
+    "domain": "schädlingnützling",
+    "right": [
+      {
+        "key": "Nützling",
+        "value": ["Schmetterling", "Hummel", "Schwebfliegen", "Raubmilben"]
+      },
+      {
+        "key": "Schädling",
+        "value": ["Spinnmilben", "Wollläuse", "Nacktschnecken", "Weiße Fliegen"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["Nützling", "Schädling"]
+  },
+  {
+    "question": "Orden die nachfolgenden Schneckenarten in die Kategorien nützlich und schädlich ein.",
+    "type": "category",
+    "domain": "schädlingnützling",
+    "right": [
+      {
+        "key": "nützlich",
+        "value": [
+          "Schnirkelschnecken",
+          "Weinbergschnecken",
+          "Garten-Bänderschnecken",
+          "Schnegel"
+        ]
+      },
+      {
+        "key": "schädlich",
+        "value": [
+          "Wegschnecken",
+          "spanische Wegschnecken",
+          "Ackerschnecken",
+          "Gartenwegschnecke"
+        ]
+      }
+    ],
+    "wrong": [],
+    "categories": ["nützlich", "schädlich"]
+  },
+  {
+    "question": "Orden die Läusearte ihrem Vorkommen beim Menschen oder auf Pflanzen zu",
+    "type": "category",
+    "domain": "schädlingnützling",
+    "right": [
+      {
+        "key": "Menschen",
+        "value": ["Kopflaus", "Körperlaus", "Filzlaus", "Kleiderlaus"]
+      },
+      {
+        "key": "Pflanzen",
+        "value": ["Blattlaus", "Wolllaus", "Schildlaus", "Staublaus"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["Menschen", "Pflanzen"]
+  },
+  {
+    "question": "Ordne die Nützlinge in hauptsächlich tag- und nachtaktiv.",
+    "type": "category",
+    "domain": "schädlingnützling",
+    "right": [
+      {
+        "key": "nachtaktiv",
+        "value": ["Igel", "Nachtfalter", "Fledermäuse", "Ohrwurm"]
+      },
+      {
+        "key": "tagaktiv",
+        "value": ["Marienkäfer", "Hummeln", "Räuberische Wanze"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["tagaktiv", "nachtaktiv"]
+  },
+  {
+    "question": "Entscheide, ob die Organismen größer oder kleiner als 1 cm sind",
+    "type": "category",
+    "domain": "schädlingnützling",
+    "right": [
+      {
+        "key": "größer",
+        "value": ["Schnecken", "Schmetterling", "Meise", "Fledermäuse"]
+      },
+      {
+        "key": "kleiner",
+        "value": ["Blattlaus", "Bakterien", "Thripse", "Spinnmilben"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["größer", "kleiner"]
+  },
+  {
+    "question": "Was ist gemeint, wenn von einem „leichten Boden“ gesprochen wird?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["ein Boden aus viel Sand"],
+    "wrong": [
+      "ein Boden, bestehend aus Humus",
+      "ein feuchter Boden",
+      "ein kalkhaltiger Boden"
+    ]
+  },
+  {
+    "question": "Ordne die Pflanzen nach der Schnelligkeit ihres Wachstums. Beginne mit der Schnellsten",
+    "type": "sort",
+    "domain": "natur",
+    "right": ["Bambus", "Feuerdorn", "Kirschlorbeer", "Buchs"],
+    "wrong": []
+  },
+  {
+    "question": "Welche Blume steht für ein ewiges Leben?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["Wacholderblüten"],
+    "wrong": ["Gerbera", "Rose", "Kornblume"]
+  },
+  {
+    "question": "Was muss man beim Trocknen eines Hortensien-Strauß beachten?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["in ein Gemisch aus Glycerin und Wasser stellen"],
+    "wrong": [
+      "in einem trockenen Raum mehrere Tage stehen lassen",
+      "mehrere Stunden in der Sonne lassen",
+      "in Öl einlegen"
+    ]
+  },
+  {
+    "question": "Wie kann eine Kletterrose an einem Baum klettern?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["mit einem Strick die Triebe am Baum befestigen"],
+    "wrong": [
+      "nahe am Baum wachsen lassen und die Kletterrose selbst biegen",
+      "die Kletterrose sollte jeden Tag am Baum hochgezogen werden",
+      "die Kletterrose am Baum festnageln"
+    ]
+  },
+  {
+    "question": "Was tun, wenn der Rasen dreckige Flecken aufweist?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["eine Stachelwalze anwenden"],
+    "wrong": [
+      "den Rasen täglich mehrfach wässern",
+      "einen Obstbaum pflanzen",
+      "den Bereich absperren"
+    ]
+  },
+  {
+    "question": "Was für eine rankende Pflanze hat rote, orangenfarbene oder gelbe Blüten, mit welchen man einfach Salate oder Speisen verfeinern kann?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["die Kapuzinerkresse"],
+    "wrong": ["der Gemeine Efeu", "der Nieswurz", "der Löwenzahn"]
+  },
+  {
+    "question": "Wie heißt die Pflanze, die ihren Mund öffnet, wenn man sie drückt?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["das Löwenmäulchen"],
+    "wrong": ["die Passionsblume", "die Engelstrompete", "die Pfingstrose"]
+  },
+  {
+    "question": "Wann ist die richtige Zeit den Garten zu bewässern?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["abends"],
+    "wrong": ["mittags", "morgens", "nachmittags"]
+  },
+  {
+    "question": "Was könnte ich falsch machen, wenn die Hortensie nicht erblüht, auch nicht nach mehreren Jahren?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["eine Beschneidung findet in der falschen Jahreszeit statt"],
+    "wrong": [
+      "sie bekommt zu wenig Wasser ab",
+      "sie befindet sich am fasche Platz",
+      "sie hat falsche Nachbarn"
+    ]
+  },
+  {
+    "question": "Wie kann man am besten Moos und Charlie im Garten entfernen?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["die schattigen Plätze im Garten reduzieren"],
+    "wrong": [
+      "Gift einmal im Monat über das ganze Gras streuen",
+      "abends und morgens den Garten mit ausreichend Wasser versorgen",
+      "Schneken auf Gras und Charlie setzen"
+    ]
+  },
+  {
+    "question": "Die Tomaten in meinem Garten haben am unteren Ende schwarze Flecken, was kann ich tun?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["die Tomaten in einer anderen Position pflanzen"],
+    "wrong": [
+      "mehr Düngermittel anwenden",
+      "die Tomaten mit mehr Wasser versorgen",
+      "die Tomaten mit weniger Wasser versorgen"
+    ]
+  },
+  {
+    "question": "Wie kann man Wollläuse umweltschonend schnell los werden?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["auf Schlupfwespen oder Florfliegenlarven zurückgreifen"],
+    "wrong": [
+      "Spinnen im Garten setzen",
+      "es gibt verschiedene Mittel im Fachhandel",
+      "die befallen Pflanzen vor Sonne schützen"
+    ]
+  },
+  {
+    "question": "Was sollte man mit einem Olivenstämmchen im Winter machen?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["die Töpfe mit Luftpolsterfolie umwickeln"],
+    "wrong": [
+      "können problemlos draußen überwintern",
+      "an einem trockenen Ort stellen",
+      "Olivenstämmchen sterben im Winter ab (einjährig)"
+    ]
+  },
+  {
+    "question": "In welchen Monaten sollten Rosen am besten geschnitten werden?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["April"],
+    "wrong": ["Juni", "August", "Oktober"]
+  },
+  {
+    "question": "Welche Art von Bäumen bieten im Garten am meisten Schatten?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["Bäume mit kegelförmigen oder ovalen Kronen"],
+    "wrong": ["Eichel", "Säulenbäume", "Obstbäume"]
+  },
+  {
+    "question": "Ordne die Pflanzen von der giftigsten nach ungiftig.",
+    "type": "sort",
+    "domain": "natur",
+    "right": ["Manchelbaum", "blauer Eisenhut", "Tollkirsche", "Löwenmäulchen"],
+    "wrong": []
+  },
+  {
+    "question": "Wann blühen Frühlingsblumen?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["März - April"],
+    "wrong": ["Januar - Februar", "Juni - Juli", "Februar - Juli"]
+  },
+  {
+    "question": "Welche Blumen gibt es?",
+    "type": "MCQ",
+    "domain": "natur",
+    "right": ["Beinbrech", "Maskenblume", "Glockenblume"],
+    "wrong": ["Beckenblume"]
+  },
+  {
+    "question": "Was genau sind Kumquats?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["Zwergorangen"],
+    "wrong": ["Zitronen", "Limetten", "Grapefruits"]
+  },
+  {
+    "question": "Wo kann Rosenkohl ausschließlich wachsen?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["direkt am Stamm"],
+    "wrong": [
+      "unter der Erde",
+      "an einem sehr feuchten Ort",
+      "auf sehr sandigen Böden"
+    ]
+  },
+  {
+    "question": "Wie nennt man es, wenn man nach dem Mähen den Rasenschnitt als Gründünger nutzt?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["mulchen"],
+    "wrong": ["sulen", "lurchen", "vertikulieren"]
+  },
+  {
+    "question": "Was genau bedeutet Mutterkorn?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["ein Getreidepilz"],
+    "wrong": [
+      "die erste Pflanze eines Gartens",
+      "eine spezielle Pflanzenart",
+      "die Pflanze, aus deren Samen eine neue Pflanze gewachsen ist"
+    ]
+  },
+  {
+    "question": "Gibt es Kräuter, die nicht nebeneinander gepflanzt werden dürfen, wenn ja, welche sind das?",
+    "type": "SCQ",
+    "domain": "natur",
+    "right": ["Melisse und Basilikum"],
+    "wrong": ["Nein", "Schnittlauch und Minze", "Estragon und Kerbel"]
+  },
+  {
+    "question": "Welches Obst bzw. Gemüse hat ungekocht einen Vitamin C Gehalt von mehr als 100 mg pro 100 g?",
+    "type": "MCQ",
+    "domain": "natur",
+    "right": ["Acerola", "Schwarze Johannisbeere", "Rote Paprika", "Sanddorn"],
+    "wrong": ["Orange", "Spinat", "Zitrone", "Kiwi"]
+  },
+  {
+    "question": "Welche Lebensmittel sind für ihren hohen Eisengehalt bekannt?",
+    "type": "MCQ",
+    "domain": "natur",
+    "right": ["Kidney-Bohnen", "Linsen", "Kichererbsen", "Schwarzwurzel"],
+    "wrong": ["Kartoffeln", "Tomaten", "Zwiebeln", "Gurke"]
+  },
+  {
+    "question": "Wo leben eher weniger bis keine Insekten.",
+    "type": "MCQ",
+    "domain": "natur",
+    "right": ["Antarktis", "mariner Bereich", "Weltall"],
+    "wrong": ["Europa", "Australien", "Wüste"]
+  },
+  {
+    "question": "Welche Bäume sind Laubbäume?",
+    "type": "MCQ",
+    "domain": "natur",
+    "right": ["Ahorn", "Buche", "Esche", "Birke", "Erle"],
+    "wrong": ["Fichte", "Kiefer", "Lärche", "Tanne", "Douglasie"]
+  },
+  {
+    "question": "Welche Bäume enthalten mindestens einen für Menschen giftigen Bestandteil?",
+    "type": "MCQ",
+    "domain": "natur",
+    "right": [
+      "Eibe",
+      "Bittermandel",
+      "Buchsbaum",
+      "Aprikose",
+      "Gemeiner Goldregen"
+    ],
+    "wrong": ["Weide", "Esche", "Geldbaum", "Zedern"]
+  },
+  {
+    "question": "Entscheide, ob die nachfolgenden Pflanzen gute oder schlechte Nachbarn der Roten Beete sind",
+    "type": "category",
+    "domain": "natur",
+    "right": [
+      {
+        "key": "guter Nachbar",
+        "value": ["Bohnen", "Dill", "Kohlrabi", "Zwiebeln"]
+      },
+      {
+        "key": "schlechter Nachbar",
+        "value": ["Aubergine", "Kartoffeln", "Lauch", "Mais"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["guter Nachbar", "schlechter Nachbar"]
+  },
+  {
+    "question": "Entscheide, ob die nachfolgenden Pflanzen gute oder schlechte Nachbarn der Kartoffel sind",
+    "type": "category",
+    "domain": "natur",
+    "right": [
+      {
+        "key": "guter Nachbar",
+        "value": ["Bohnen", "Blumenkohl", "Kohlrabi", "Pfefferminze"]
+      },
+      {
+        "key": "schlechter Nachbar",
+        "value": ["Aubergine", "Erbsen", "Paprika", "Sellerie"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["guter Nachbar", "schlechter Nachbar"]
+  },
+  {
+    "question": "Entscheide, ob es sich um eine Obstsorte oder eine Gemüsesorte handelt.",
+    "type": "category",
+    "domain": "natur",
+    "right": [
+      {
+        "key": "Obst",
+        "value": ["Quitten", "Trauben", "Mirabellen", "Erbeere"]
+      },
+      {
+        "key": "Gemüse",
+        "value": ["Pastinaken", "Kürbis", "Kartoffeln", "Schwarzwurzel"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["Obst", "Gemüse"]
+  },
+  {
+    "question": "Entscheide, ob es sich bei den nachfolgenden Blumen um heimische Wildblumen oder um Exoten handelt.",
+    "type": "category",
+    "domain": "natur",
+    "right": [
+      {
+        "key": "heimische Wildblume",
+        "value": [
+          "Gänseblümchen",
+          "Klatschmohn",
+          "Wilde Malve",
+          "Gewöhnlicher Natternkopf"
+        ]
+      },
+      {
+        "key": "Exoten",
+        "value": ["Orchidee", "Porzellanblume", "Bromelie", "Flamingoblume"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["heimische Wildblume", "Exoten"]
+  },
+  {
+    "question": "Entscheide, ob es sich bei den folgenden Gartenbewohnern um geschützte Tierarten handelt. ",
+    "type": "category",
+    "domain": "natur",
+    "right": [
+      {
+        "key": "geschützt",
+        "value": ["Hornissen", "Spitzmäuse", "Fledermäuse", "Mauereidechse"]
+      },
+      {
+        "key": "nicht geschützt",
+        "value": ["Ameisen", "Marienkäfer", "Schnecken", "Eichhörnchen"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["geschützt", "nicht geschützt"]
+  },
+  {
+    "question": "Wer oder was ist eine Mimose?",
+    "type": "FIB",
+    "domain": "natur",
+    "right": ["tropische Pflanze"],
+    "wrong": []
+  },
+  {
+    "question": "Aus welcher Pflanze wird Vanille gewonnen?",
+    "type": "FIB",
+    "domain": "natur",
+    "right": ["Orchidee"],
+    "wrong": []
+  },
+  {
+    "question": "Zu welcher Pflanzengattung gehört die Erdbeere?",
+    "type": "FIB",
+    "domain": "natur",
+    "right": ["Rosengewächse"],
+    "wrong": []
+  },
+  {
+    "question": "Welche ist die älterste Baumart?",
+    "type": "FIB",
+    "domain": "natur",
+    "right": ["Ginkobaum"],
+    "wrong": []
+  },
+  {
+    "question": "Die Fläche, auf der weltweit Baumwolle angepflanzt wird, entspricht nahezu der Größe von _____?",
+    "type": "FIB",
+    "domain": "natur",
+    "right": ["Deutschland"],
+    "wrong": []
+  },
+  {
+    "question": "Die schwerste Blüte der Welt ist die der Riesen-Rafflesie. Sie kann bis zu ____ kg wiegen.",
+    "type": "FIB",
+    "domain": "natur",
+    "right": ["9"],
+    "wrong": []
+  },
+  {
+    "question": "Bienen müssen etwa _____ Millionen Blüten anfliegen, um ein Kilogramm Honig zu gewinnen.",
+    "type": "FIB",
+    "domain": "natur",
+    "right": ["3"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die Obstbäume aufsteigend nach dem Alter, das sie maximal erreichen können.",
+    "type": "sort",
+    "domain": "natur",
+    "right": [
+      "Sauerkirschenbaum",
+      "Süßkirschenbaum",
+      "Apfelbaum",
+      "Birnbaum",
+      "Walnussbaum"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die nachfolgenden Früchte aufsteigend der Größe nach.",
+    "type": "sort",
+    "domain": "natur",
+    "right": [
+      "Erbse",
+      "Haselnuss",
+      "Kirsche",
+      "Kastanie",
+      "Pflaume",
+      "Apfel",
+      "Kokosnuss"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die nachfolgenden Gemüsesorten nach Erntezeit im Jahr. Betrachte dabei den Monat, ab welchem man das jeweilige Gemüse in der Regel frühestens ernten kann.",
+    "type": "sort",
+    "domain": "natur",
+    "right": ["Blumenkohl", "Aubergine", "Mais", "Kürbis", "Meerrettich"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die nachfolgenden Obstsorten nach Erntezeit im Jahr. Betrachte dabei den Monat, ab welchem man das jeweilige Gemüse in der Regel frühestens ernten kann.",
+    "type": "sort",
+    "domain": "natur",
+    "right": ["Erdbeere", "Himbeere", "Brombeere", "Apfel", "Hagebutte"],
+    "wrong": []
+  },
+  {
+    "question": "Welche Kräuter sind winterhart?",
+    "type": "MCQ",
+    "domain": "kräuter",
+    "right": [
+      "Zinnkraut",
+      "Ananasminze",
+      "Apfelminze",
+      "Bärlauch",
+      "Barbarakraut",
+      "Bergbohnenkraut",
+      "Blutwurz",
+      "Brennnessel",
+      "Brunnenkresse",
+      "Colakraut",
+      "Eberraute",
+      "Nanaminze",
+      "Olivenkraut",
+      "Petersilie",
+      "Pfefferminze",
+      "Pimpinelle",
+      "Polster-Thymian",
+      "Quendel",
+      "Rosmarin",
+      "Sauerampfer",
+      "Schnittlauch",
+      "Schokominze",
+      "Speerminze",
+      "Süßdolde",
+      "Süßholz",
+      "Tripmadam",
+      "Ysop",
+      "Zitronen-Thymian",
+      "Zitronenmelisse",
+      "Zitronenminze"
+    ],
+    "wrong": [
+      "Ananassalbei",
+      "Anis",
+      "Borretsch",
+      "Kleines Fettblatt",
+      "Currykraut",
+      "Dill",
+      "Echte Kamille",
+      "Echter Galgant",
+      "Echter Kerbel",
+      "Gewürztagetes",
+      "Ingwer",
+      "Katzenschwanzpflanze",
+      "Koriander",
+      "Kurkuma-Pflanze",
+      "Limonen-Ysop",
+      "Majoran",
+      "Mariendistel",
+      "Pilzkraut",
+      "Schwarzkümmel",
+      "Shiso",
+      "Süßkraut",
+      "Strauchbasilikum",
+      "Thai-Basilikum",
+      "Zitronenbasilikum",
+      "Zitronengras",
+      "Zitronenverbene"
+    ]
+  },
+  {
+    "question": "Welche Pflanzen haben zweifarbige Blätter?",
+    "type": "MCQ",
+    "domain": "kräuter",
+    "right": ["Ananasminze", "Zitronen-Thymian"],
+    "wrong": [
+      "Zinnkraut",
+      "Apfelminze",
+      "Bärlauch",
+      "Barbarakraut",
+      "Bergbohnenkraut",
+      "Blutwurz",
+      "Brennnessel",
+      "Brunnenkresse",
+      "Colakraut",
+      "Eberraute",
+      "Echter Baldrian",
+      "Echter Beinwell",
+      "Echter Eibisch",
+      "Echter Kümmel",
+      "Echter Salbei",
+      "Echter Thymian",
+      "Echter Wermut",
+      "Echtes Löffelkraut",
+      "Shiso",
+      "Süßkraut",
+      "Strauchbasilikum",
+      "Thai-Basilikum",
+      "Zitronenbasilikum",
+      "Zitronengras",
+      "Zitronenverbene"
+    ]
+  },
+  {
+    "question": "Welchen Standort benötigt Blutwurz?",
+    "type": "MCQ",
+    "domain": "kräuter",
+    "right": [
+      "halbschattig",
+      "sandig",
+      "mäßig trocken",
+      "humusreich",
+      "nährstoffarm"
+    ],
+    "wrong": [
+      "sonnig",
+      "schattig",
+      "tonhaltig",
+      "lehmig",
+      "trocken",
+      "feucht",
+      "humusarm",
+      "nährstoffreich"
+    ]
+  },
+  {
+    "question": "Welchen Wuchseigenschaften hat die Petersilie?",
+    "type": "MCQ",
+    "domain": "kräuter",
+    "right": ["aufrecht", "dicht"],
+    "wrong": [
+      "ausladend",
+      "buschig",
+      "Ausläufer",
+      "flachwüchsig",
+      "polsterbildend",
+      "teppichbildend"
+    ]
+  },
+  {
+    "question": "Womit kann man Bärlauch leicht verwechseln?",
+    "type": "FIB",
+    "domain": "kräuter",
+    "right": ["Maiglöckchen", "Herbstzeitlose"],
+    "wrong": []
+  },
+  {
+    "question": "In welcher Farbe blüht die Süßdolde?",
+    "type": "FIB",
+    "domain": "kräuter",
+    "right": ["weiß"],
+    "wrong": []
+  },
+  {
+    "question": "Sortiere die Kräuter aufsteigend nach ihren Blütemonaten.",
+    "type": "sort",
+    "domain": "kräuter",
+    "right": [
+      "Schnittlauch",
+      "Griechischer Bergtee",
+      "Ysop",
+      "Stevia",
+      "Mönchspfeffer"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die Kräuter ihrer maximalen Wuchshöhe zu.",
+    "type": "category",
+    "domain": "kräuter",
+    "right": [
+      { "key": "Zinnkraut", "value": "50 cm" },
+      { "key": "Ananasminze", "value": "80 cm" },
+      { "key": "Ananassalbei", "value": "80 cm" },
+      { "key": "Anis", "value": "70 cm" },
+      { "key": "Apfelminze", "value": "100 cm" },
+      { "key": "Bärlauch", "value": "50 cm" },
+      { "key": "Barbarakraut", "value": "80 cm" },
+      { "key": "Bergbohnenkraut", "value": "40 cm" },
+      { "key": "Blutwurz", "value": "50 cm" },
+      { "key": "Borretsch", "value": "100 cm" },
+      { "key": "Kleines Fettblatt", "value": "15 cm" }
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Welche Wuchseigenschaften hat Schnittlauch?",
+    "type": "FIB",
+    "domain": "kräuter",
+    "right": ["aufrecht", "horstbildend"],
+    "wrong": []
+  },
+  {
+    "question": "Welche Kräuter haben den Wuchstyp Zwiebel?",
+    "type": "SCQ",
+    "domain": "kräuter",
+    "right": ["Schnittlauch"],
+    "wrong": ["Mönchspfeffer", "Rosmarin", "Fenchel"]
+  },
+  {
+    "question": "Welche Blattform hat die Zitronenmelisse?",
+    "type": "FIB",
+    "domain": "kräuter",
+    "right": ["eiförmig", "oval"],
+    "wrong": []
+  },
+  {
+    "question": "Was ist die Blütenform von Koriander?",
+    "type": "FIB",
+    "domain": "kräuter",
+    "right": ["Dolde"],
+    "wrong": []
+  },
+  {
+    "question": "Sortiere die Kräuter Mönchspfeffer, Maiglöckchen, Koriander von ungiftig nach giftig",
+    "type": "sort",
+    "domain": "kräuter",
+    "right": ["Koriander", "Mönchspfeffer", "Maiglöckchen"],
+    "wrong": []
+  },
+  {
+    "question": "Welche dieser Kräuter haben die Blütenfarbe blau?",
+    "type": "MCQ",
+    "domain": "kräuter",
+    "right": ["Rosmarin", "Eisenkraut", "Mönchspfeffer", "Borretsch"],
+    "wrong": ["Blutwurz", "Currykraut", "Dill", "Anis", "Bärlauch"]
+  },
+  {
+    "question": "Was ist die Blütezeit von Brunnenkresse?",
+    "type": "FIB",
+    "domain": "kräuter",
+    "right": ["Mai bis September"],
+    "wrong": []
+  },
+  {
+    "question": "Sortiere die Kräuter aufsteigend nach ihrem Nährstoffbedarf",
+    "type": "sort",
+    "domain": "kräuter",
+    "right": ["Petersilie", "Pimpinelle", "Thai-Basilikum"],
+    "wrong": []
+  },
+  {
+    "question": "Wie nennt man es, wenn ein Feld nach mehrjähriger Bestellung ein Pausenjahr bekommt und nicht bestellt wird?",
+    "type": "SCQ",
+    "domain": "ernte",
+    "right": ["Das Feld liegt brach."],
+    "wrong": [
+      "Das Feld liegt vakun.",
+      "Das Feld pausiert.",
+      "Das Feld liegt bakun."
+    ]
+  },
+  {
+    "question": "Welches kirchliche Fest wird traditionell am 29. September gefeiert und dient zur Preisung der üppigen Ernte?",
+    "type": "SCQ",
+    "domain": "ernte",
+    "right": ["Erntedank"],
+    "wrong": ["Fronleichnam", "Allerheiligen", "Pfingsten"]
+  },
+  {
+    "question": "Welches amerikanische Fest enspricht dem in Deutschland unter dem Namen Erntedank bekanntem Kirchenfest?",
+    "type": "SCQ",
+    "domain": "ernte",
+    "right": ["Thanksgiving"],
+    "wrong": ["Harvestgratitude", "Thanksharvest", "Harvestthanking"]
+  },
+  {
+    "question": "Welches heimische Obst ist in Deutschland ganzjährlich zumindest als Lagerware verfügbar?",
+    "type": "SCQ",
+    "domain": "ernte",
+    "right": ["Apfel"],
+    "wrong": ["Mango", "Erdbeere", "Banane"]
+  },
+  {
+    "question": "Welche der folgenden Auswahlmöglichkeiten ist ein oft verwendetes Düngemittel in der Landwirtschaft?",
+    "type": "SCQ",
+    "domain": "ernte",
+    "right": ["NPK-Dünger"],
+    "wrong": ["AFK-Dünger", "WWM-Dünger", "ABC-Dünger"]
+  },
+  {
+    "question": "In welchem Monat findet man Birnen nicht als heimische, saisonale Ware in deutschen Läden?",
+    "type": "SCQ",
+    "domain": "ernte",
+    "right": ["Januar"],
+    "wrong": ["August", "September", "Oktober"]
+  },
+  {
+    "question": "In welchem Monat findet man Himbeeren nicht als heimische, saisonale Ware in deutschen Läden?",
+    "type": "SCQ",
+    "domain": "ernte",
+    "right": ["September"],
+    "wrong": ["Juni", "Juli", "August"]
+  },
+  {
+    "question": "In welchem Monat findet man Zwetschgen nicht als heimische, saisonale Ware in deutschen Läden?",
+    "type": "SCQ",
+    "domain": "ernte",
+    "right": ["Mai"],
+    "wrong": ["Oktober", "August", "Juli"]
+  },
+  {
+    "question": "In welchem Monat findet man Paprika nicht als heimische, saisonale Ware in deutschen Läden?",
+    "type": "SCQ",
+    "domain": "ernte",
+    "right": ["November"],
+    "wrong": ["Juli", "September", "Oktober"]
+  },
+  {
+    "question": "In welchem Monat findet man Brokkoli nicht als heimische, saisonale Ware in deutschen Läden?",
+    "type": "SCQ",
+    "domain": "ernte",
+    "right": ["April"],
+    "wrong": ["Juni", "August", "Oktober"]
+  },
+  {
+    "question": "Welches Gemüse hat zwei jährliche Erntesaisonen?",
+    "type": "SCQ",
+    "domain": "ernte",
+    "right": ["Spinat"],
+    "wrong": ["Aubergine", "Mangold", "Spargel"]
+  },
+  {
+    "question": "Welche der folgenden Elemente sind entscheidend für eine erfolgreiche Ernte?",
+    "type": "MCQ",
+    "domain": "ernte",
+    "right": [
+      "richtiger Zeitpunkt",
+      "Wetter",
+      "schnelle Abwicklung der Ernte",
+      "Technische Hilfsmittel"
+    ],
+    "wrong": ["Gebete"]
+  },
+  {
+    "question": " Welche der folgenden Bezeichnungen wird allgemein nicht verwendet um eine Haupternteart zu beschreiben?",
+    "type": "MCQ",
+    "domain": "ernte",
+    "right": ["Beerenlese", "Grasernte"],
+    "wrong": [
+      "Grünfutterernte",
+      "Getreideernte",
+      "Hackfruchternte",
+      "Obsternte",
+      "Weinlese"
+    ]
+  },
+  {
+    "question": "Welche der folgenden Möglichkeiten werden bei der Getreideernte geerntet?",
+    "type": "MCQ",
+    "domain": "ernte",
+    "right": ["Getreide", "Ölfrüchte", "Hülsenfrüchte"],
+    "wrong": ["Knollengewächse", "Wurzelgewächse"]
+  },
+  {
+    "question": "Wähle alle Gemüsesorten aus, die im Frühling frisch geerntet werden können:",
+    "type": "MCQ",
+    "domain": "ernte",
+    "right": [
+      "Batavia",
+      "Bärlauch",
+      "Blumenkohl",
+      "Champignon",
+      "Frühlingszwiebel",
+      "Frühkartoffel",
+      "Kohlrabi",
+      "Kopfsalat",
+      "Lollo Rosso",
+      "Mairübchen",
+      "Mangold",
+      "Frükarotten",
+      "Radieschen",
+      "Rettich",
+      "Rucola",
+      "Spargel",
+      "Spinat",
+      "Spitzkohl",
+      "Weißkohl",
+      "Wirsing",
+      "Zuckerschote"
+    ],
+    "wrong": ["Aubergine", "Butterrübe", "Kürbis", "Mais"]
+  },
+  {
+    "question": "Wähle alle Obstsorten aus, die im Frühling frisch geerntet werden können:",
+    "type": "MCQ",
+    "domain": "ernte",
+    "right": ["Erdbeere", "Rhabarber", "Heidelbeere"],
+    "wrong": ["Apfel", "Quitte"]
+  },
+  {
+    "question": "Wähle alle Gemüsesorten aus, die im Sommer frisch geerntet werden können:",
+    "type": "MCQ",
+    "domain": "ernte",
+    "right": [
+      "Tomaten",
+      "Gurken",
+      "Frühkartoffeln",
+      "Paprika",
+      "Zucchini",
+      "Aubergine",
+      "Bohnen",
+      "Erbsen",
+      "Kohlrabi",
+      "Radieschen",
+      "Blumenkohl",
+      "Salat"
+    ],
+    "wrong": ["Grünkohl"]
+  },
+  {
+    "question": "Wähle alle Obstsorten aus, die im Sommer frisch geerntet werden können:",
+    "type": "MCQ",
+    "domain": "ernte",
+    "right": ["Aprikose", "Johannisbeere", "Zwetschge"],
+    "wrong": ["Rhabarber"]
+  },
+  {
+    "question": "Wähle alle Gemüsesorten aus, die im Herbst frisch geerntet werden können:",
+    "type": "MCQ",
+    "domain": "ernte",
+    "right": ["Grünkohl", "Pastinaken", "Rosenkohl", "Steckrüben"],
+    "wrong": ["Bohnen", "Erbsen", "Spargel", "Zuckerschoten"]
+  },
+  {
+    "question": "Wähle alle Obstsorten aus, die im Herbst frisch geerntet werden können:",
+    "type": "MCQ",
+    "domain": "ernte",
+    "right": ["Apfel", "Quitte"],
+    "wrong": ["Erdbeere", "Rhabarber", "Stachelbeere", "Aprikose"]
+  },
+  {
+    "question": "Wähle alle Monate aus, in denen deutscher Spargel saisonal geerntet wird.",
+    "type": "MCQ",
+    "domain": "ernte",
+    "right": ["April", "Mai", "Juni"],
+    "wrong": ["Juli"]
+  },
+  {
+    "question": "Welche der folgenden Möglichkeiten sind Teil des sog. Pflanzguts?",
+    "type": "MCQ",
+    "domain": "ernte",
+    "right": ["Knollen", "Rhizome", "Stecklinge", "Zwiebeln"],
+    "wrong": ["Samen", "Früchte", "Scheinfrüchte", "Fruchtstände"]
+  },
+  {
+    "question": "Welche der folgenden Möglichkeiten sind Teil des sog. Saatguts?",
+    "type": "MCQ",
+    "domain": "ernte",
+    "right": ["Samen", "Früchte", "Scheinfrüchte", "Fruchtstände"],
+    "wrong": ["Knollen", "Rhizome", "Stecklinge", "Zwiebeln"]
+  },
+  {
+    "question": "Welche Mikronährstoffe sind oft in Dünger enthalten und dienen als Nährgrundlage von Pflanzen?",
+    "type": "MCQ",
+    "domain": "ernte",
+    "right": [
+      "Bor",
+      "Chlor",
+      "Kupfer",
+      "Eisen",
+      "Mangan",
+      "Molybdän",
+      "Nickel",
+      "Zink"
+    ],
+    "wrong": ["Cobalt", "Fluor", "Nitrat", "Uran"]
+  },
+  {
+    "question": "Kategorisiere folgende Pflanzen in Saatgut und Pflanzgut, je nach Art ihrer Anfplanzung:",
+    "type": "category",
+    "domain": "ernte",
+    "right": [
+      {
+        "key": "Pflanzgut",
+        "value": ["Kartoffel", "Tulpe", "Ingwer", "Zwiebel"]
+      },
+      { "key": "Saatgut", "value": ["Mais", "Weizen", "Kiefer", "Bohnen"] }
+    ],
+    "wrong": [],
+    "categories": ["Pflanzgut", "Saatgut"]
+  },
+  {
+    "question": "Kategorisiere folgende Düngemittel in organische Düngemittel und mineralische Düngemittel.",
+    "type": "category",
+    "domain": "ernte",
+    "right": [
+      {
+        "key": "Organische Dünger",
+        "value": [
+          "Gülle",
+          "Stallmist",
+          "Mulch",
+          "Kompost",
+          "Klärschlamm",
+          "Torf"
+        ]
+      },
+      {
+        "key": "Mineralische Dünger",
+        "value": [
+          "Einzelnährstoffdünger",
+          "NPK-Dünger",
+          "Ammoniumsulfat",
+          "Kalkstickstoffgranulat"
+        ]
+      }
+    ],
+    "wrong": [],
+    "categories": ["Organische Dünger", "Mineralische Dünger"]
+  },
+  {
+    "question": "Ordne folgende Gemüse- und Obstsorten in die Kategorien Einjährige und Mehrjährige Pflanzen ein.",
+    "type": "category",
+    "domain": "ernte",
+    "right": [
+      {
+        "key": "Einjährig",
+        "value": ["Chili", "Tomate", "Zucchini", "Birnenmelone"]
+      },
+      {
+        "key": "Mehrjährig",
+        "value": ["Apfel", "Birne", "Pflaume", "Rhabarber"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["Einhährig", "Mehrjährig"]
+  },
+  {
+    "question": "Ordne folgende Kräuter in die Kategorien Einjährige und Mehrjährige Pflanzen ein.",
+    "type": "category",
+    "domain": "ernte",
+    "right": [
+      {
+        "key": "Einjährig",
+        "value": ["Anis", "Dill", "Gartenkresse", "Koriander"]
+      },
+      {
+        "key": "Mehrjährig",
+        "value": [
+          "Nelke",
+          "Knoblauch",
+          "Bärlauch",
+          "Safran",
+          "Schnittlauch",
+          "Vanille",
+          "Zimt"
+        ]
+      }
+    ],
+    "wrong": [],
+    "categories": ["Einhährig", "Mehrjährig"]
+  },
+  {
+    "question": "Ordne folgende Blumen in die Kategorien Einjährige und Mehrjährige Pflanzen ein.",
+    "type": "category",
+    "domain": "ernte",
+    "right": [
+      {
+        "key": "Einjährig",
+        "value": [
+          "Ringelblume",
+          "Löwenmäulchen",
+          "Kapuzinerkresse",
+          "Strohblume"
+        ]
+      },
+      {
+        "key": "Mehrjährig",
+        "value": ["Schneeglöckchen", "Pfingstrose", "Kornblume", "Primel"]
+      }
+    ],
+    "wrong": [],
+    "categories": ["Einhährig", "Mehrjährig"]
+  },
+  {
+    "question": "Mittel oder Stoffe, die zur Nährstoffzugabe in den Boden verwendet werden, nennt man ____.",
+    "type": "FIB",
+    "domain": "ernte",
+    "right": ["Dünger"],
+    "wrong": []
+  },
+  {
+    "question": "Der _____ ist ein Obst, das an Bäumen wächst und in Deutschland ganzjährlich als heimische Lagerware zu finden ist.",
+    "type": "FIB",
+    "domain": "ernte",
+    "right": ["Apfel"],
+    "wrong": []
+  },
+  {
+    "question": "Der _____ ist ein Obst, das zur Ernte gestochen wird und bereits im Frühjahr geerntet wird.",
+    "type": "FIB",
+    "domain": "ernte",
+    "right": ["Rhabarber"],
+    "wrong": []
+  },
+  {
+    "question": "Pflanzenteile wie Knollen, Rhizome, Stecklinge und Zwiebeln, die in den Boden gepflanzt werden können, bezeichnet man auch allgemein als ____.",
+    "type": "FIB",
+    "domain": "ernte",
+    "right": ["Pflanzgut"],
+    "wrong": []
+  },
+  {
+    "question": "Samen, Früchte, Scheinfrüchte, Fruchtstände, welche zum Anbau von Pflanzen dienen können, bezeichnet man allgemein auch als _____.",
+    "type": "FIB",
+    "domain": "ernte",
+    "right": ["Saatgut"],
+    "wrong": []
+  },
+  {
+    "question": "______ Pflanzen blühen nur eine Vegetationsperiode lang und sterben danach ab.",
+    "type": "FIB",
+    "domain": "ernte",
+    "right": ["Einjährige"],
+    "wrong": []
+  },
+  {
+    "question": "_____ Pflanzen überdauern im Gegensatz zu Einjährigen Pflanzen mehrere Vegetationsperioden.",
+    "type": "FIB",
+    "domain": "ernte",
+    "right": ["Mehrjährige"],
+    "wrong": []
+  },
+  {
+    "question": "Um Pflanzen ausreichend Keimzeit zu geben und sie vor Frost zu schützen, werden sie vor dem späteren Umtopfen ins Freie oft erst einmal in Innenräumen angepflanzt. Diese Tätigkeit nennt man _______.",
+    "type": "FIB",
+    "domain": "ernte",
+    "right": ["vorziehen"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die Obstsorten aufsteigend nach dem ersten Monat, in welchem sie geerntet werden können.",
+    "type": "sort",
+    "domain": "ernte",
+    "right": [
+      "Rhabarber",
+      "Erdbeere",
+      "Blaubeere",
+      "Aprikose",
+      "Birne",
+      "Quitte"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden Obstsorten aufsteigend nach dem ersten Monat, in welchem sie geerntet werden können.",
+    "type": "sort",
+    "domain": "ernte",
+    "right": ["Johannisbeere", "Zwetschge", "Apfel", "Holunder"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden Obstsorten aufsteigend nach dem ersten Monat, in welchem sie im Freien angebaut/gesät werden können.",
+    "type": "sort",
+    "domain": "ernte",
+    "right": [
+      "Erdbeere",
+      "Himbeere",
+      "Johannisbeere",
+      "Aprikose",
+      "Apfel",
+      "Physalis",
+      "Quitte"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden Gemüsesorten aufsteigend nach dem ersten Monat, in welchem sie geerntet werden können.",
+    "type": "sort",
+    "domain": "ernte",
+    "right": [
+      "Spinat",
+      "Spargel",
+      "Blumenkohl",
+      "Brokkoli",
+      "Paprika",
+      "Butterrüben",
+      "Grünkohl"
+    ],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden Gemüsesorten aufsteigend nach dem ersten Monat, in welchem sie angebaut/gesät werden können.",
+    "type": "sort",
+    "domain": "ernte",
+    "right": ["Blumenkohl", "Pastinake", "Gurke", "Grünkohl"],
+    "wrong": []
+  },
+  {
+    "question": "Ordne die folgenden Saatgutunternehmen anhand ihres jährlichen Umsatzes (2014), beginne mit dem größten:",
+    "type": "sort",
+    "domain": "ernte",
+    "right": [
+      "Monsanto",
+      "DuPont",
+      "Syngenta",
+      "Groupe Limagrain",
+      "Dow",
+      "KWS Saat",
+      "Land O'Lakes",
+      "Bayer Crop Science"
+    ],
+    "wrong": []
+  }
+]

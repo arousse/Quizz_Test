@@ -1,0 +1,146 @@
+@import './vars.scss';
+
+body {
+  font-family: monospace;
+  color: $foreground;
+  display: absolute;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 0 30px;
+  height: 100vh;
+}
+
+.css-jz7rmq-MuiPaper-root-MuiAppBar-root {
+  background: #14a94c !important;
+}
+
+h6 {
+  margin-right: 1vw !important;
+}
+.css-cuefkz-MuiContainer-root {
+  padding-top: 3vh !important;
+}
+
+.quiz-container button {
+  background: #007bff !important;
+}
+.background {
+  background: #14a94c;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  height: 100vh;
+  width: 100vw;
+}
+.background .quiz-container {
+  position: absolute;
+  top: 5vh;
+  left: 10vw;
+  right: 10vw;
+  bottom: 5vw;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  overflow-y: auto;
+  padding-top: 10vh;
+}
+
+.background .quiz-container fieldset {
+  border: none;
+}
+
+.background .quiz-container > span {
+  font-size: 1.3rem;
+}
+
+.background .quiz-container p {
+  font-size: 1.2rem;
+}
+.background .quiz-container .checkbox fieldset:nth-child(2) {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.background .quiz-container .checkbox fieldset:nth-child(2) div {
+  display: grid;
+  grid-template-columns: 10vw 10vw;
+  grid-template-rows: 1fr 1fr;
+  margin: 0 auto;
+  grid-column: 2/3;
+  grid-gap: 2vh;
+}
+.background .quiz-container .checkbox fieldset:nth-child(2) div label {
+  background: #ececec;
+  border-radius: 0.25rem;
+  position: relative;
+  height: 6vh;
+  padding-top: 2vh;
+}
+.background .quiz-container .checkbox fieldset:nth-child(2) div .incorrect {
+  background: #dc3545;
+  color: white;
+}
+.background .quiz-container .checkbox fieldset:nth-child(2) div .correct {
+  background: #28a745;
+  color: white;
+}
+.background .quiz-container .checkbox fieldset:nth-child(2) div label input {
+  position: absolute;
+  left: 0;
+}
+
+.background .quiz-container .final-result {
+  margin-top: 5vh;
+}
+.background .quiz-container .final-result p {
+  font-size: 1rem;
+}
+.background .quiz-container .final-result span {
+  margin: 1vh 0.5vw;
+}
+
+#statistic canvas {
+  width: 100% !important;
+  height: 100% !important;
+  margin: 5vw;
+}
+#statistic > div canvas {
+  width: 50% !important;
+  height: 50% !important;
+  margin: 0 auto;
+}
+#statistic > div {
+  position: relative;
+}
+
+#statistic h2:first-of-type {
+  margin-top: 10vh;
+}
+#time-count {
+  position: absolute;
+  top: 20vh;
+  left: 20.5vw;
+  font-size: 3rem;
+}
+#statistic #basic-container .basic {
+  background: #ececec;
+  position: absolute;
+  padding: 1vh 1vw;
+  border-radius: 0.25rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#statistic #basic-container .basic:nth-of-type(2) {
+  left: 15vw;
+}
+
+#statistic #basic-container {
+  width: 40vw;
+  height: 5vw;
+  position: relative;
+}
+
+#link {
+  text-decoration: none;
+  color: white;
+}
+
+body {
+  padding: 0;
+}
